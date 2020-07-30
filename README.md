@@ -1,2 +1,2 @@
-# emu8086_variance
-The assembly language code for computing variance 
+# emu8086_codes
+This repository consists of mulitple codes written in assembly level language

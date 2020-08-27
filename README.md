@@ -1,2 +1,2 @@
 # emu8086_codes
-This repository consists of mulitple codes written in assembly level language
+This repository consists of various codes written in assembly level language
